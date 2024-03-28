@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.saat-container {
+  display: flex;
+}
+
+.saat {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.ayrac {
+  font-size: 3rem;
+  margin: 0 0.5rem;
+}
